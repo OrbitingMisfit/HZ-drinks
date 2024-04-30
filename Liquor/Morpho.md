@@ -1,4 +1,0 @@
----
-Liquor type:
-  - Gin
----

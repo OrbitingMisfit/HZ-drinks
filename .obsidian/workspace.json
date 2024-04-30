@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1041c3384a78344",
+            "id": "a6eca39a83096958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(MOC) Liquor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c73e0c88fda2a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f83cbf6c9fbc1d9",
+  "active": "9c73e0c88fda2a08",
   "lastOpenFiles": [
-    "Untitled",
-    "Extras/Images/Screenshot 2024-04-30 at 2.48.34 PM.png",
-    "Extras/Procedures/User Guide.md",
-    "Extras/Images/Drink-photos",
     "(MOC) Liquor.md",
+    "Extras/Procedures/User Guide.md",
+    "Extras/Images/Screenshot 2024-04-30 at 3.37.42 PM.png",
+    "(MOC) General Drinks.md",
+    "(MOC) Hazelwood Drinks.md",
+    "Extras/Liquor Inventory/Liquor/Morpho.md",
+    "Extras/Liquor Inventory/Liquor/Ketle One Peach.md",
+    "Extras/Templates/Template, Liquor.md",
+    "Extras/Liquor Inventory/Wine",
+    "Brandy Alexander.md",
     "To DO.md",
+    "Extras/Images/Screenshot 2024-04-30 at 2.48.34 PM.png",
+    "Extras/Images/Drink-photos",
     "Ingredient recipies/Strawberry Basil Simple Syrup.md",
     "Hazelwood-Drinks/Spicy Rasberita.md",
     "Hazelwood-Drinks/New Year New Me.md",
     "Hazelwood-Drinks-NA/Farmer Paul's Maple Harvest.md",
-    "(MOC) General Drinks.md",
-    "Liquor/Seedlip Grove 42.md",
+    "Extras/Liquor Inventory/Liquor/Seedlip Grove 42.md",
     "Hazelwood-Drinks/Boozy Butter Cup.md",
     "Extras/Templates/Template, DrinkRecipe.md",
-    "Brandy Alexander.md",
     "Hazelwood-Drinks-NA/Pom Cooler.md",
     "Hazelwood-Drinks/Brunch Punch.md",
     "Hazelwood-Drinks/By Any Other Name.md",
     "Hazelwood-Drinks/Chocolate Cherry Kiss Martini.md",
     "Hazelwood-Drinks/Breakfast Mule.md",
     "Hazelwood-Drinks/Spicy Bloody.md",
-    "Liquor/Morpho.md",
-    "Liquor/Ketle One Peach.md",
-    "(MOC) Hazelwood Drinks.md",
     "Hazelwood-Drinks/Elderflower Mimosa.md",
     "Ingredient recipies/Agave Simple Syrup.md",
     "Extras/Liquor List/Untitled.md",
     "Extras/Liquor Inventory",
-    "Ingredient recipies/Honey Simple Syrup.md",
     "Extras/Guidelines and procedures",
     "Extras/Procedures",
-    "Liquor",
+    "Extras/Liquor Inventory/Liquor",
     "General-Drinks",
     "Hazelwood-Drinks-NA",
     "Ingredient recipies",
-    "Extras/Images",
-    "Hazelwood-Drinks"
+    "Extras/Images"
   ]
 }

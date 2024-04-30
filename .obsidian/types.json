@@ -5,6 +5,6 @@
     "tags": "tags",
     "Date": "date",
     "Last Updated": "date",
-    "Liquor type": "multitext"
+    "Liquor type": "checkbox"
   }
 }
