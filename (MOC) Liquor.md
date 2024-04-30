@@ -1,12 +1,14 @@
 # A
 
 # B
-
+[[Bacardi]]
+[[Bulliet Bourbon]]
 # C
-
+[[Creme de Cacao]]
 # D
 
 # E
+[[Effen Black Cherry]]
 
 # F
 
@@ -18,6 +20,7 @@
 # J
 # K
 [[Ketle One Peach]]
+[[Khalua]]
 # L
 # M
 [[Morpho]]
@@ -32,10 +35,14 @@
 # S 
 [[Seedlip Grove 42]]
 [[Seedlip Garden 108]]
+[[Screwball PB Whiskey]]
+[[St.Germaine]]
 # T
+[[Titos]]
 # U
 # V
 # W
+[[Wheatly]]
 # X
 # Y
 # Z

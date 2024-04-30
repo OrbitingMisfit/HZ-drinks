@@ -6,8 +6,8 @@ tags:
 ---
 
 # Ingredients
-- 1.0 Oz Screwball PeanutButter Whiskey
-- 1.0 Oz Khalua
+- 1.0 Oz [[Screwball PB Whiskey]]
+- 1.0 Oz [[Khalua]]
 - Coffee
 - Whipped cream 
 - Chocolate ships

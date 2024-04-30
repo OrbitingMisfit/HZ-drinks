@@ -6,7 +6,7 @@ tags:
 ---
 
 # Ingredients
-- 2.0 Oz Wheatly Vodka
+- 2.0 Oz [[Wheatly]] Vodka
 - 1.0 Oz [[Lavender Simple Syrup]]
 - 2.0 Oz Lemonade
 

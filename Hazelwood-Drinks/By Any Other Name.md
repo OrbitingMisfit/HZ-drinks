@@ -6,7 +6,7 @@ tags:
 ---
 
 # Ingredients
-- 2.0 Oz [[Wheatly Vodka]]
+- 2.0 Oz [[Wheatly]] Vodka
 - 0.75 Oz Lemon Juice
 - 1.5 Oz [[Lavender Simple Syrup]]
 - 3 Dashes cranberry bitters

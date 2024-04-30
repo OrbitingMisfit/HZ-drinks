@@ -4,10 +4,11 @@ tags:
   - DoubleRocks
   - Up_to_date
   - review
+  - Brunch
 ---
 
 # Ingredients
-- 1.5 Oz Bacardi Rum
+- 1.5 Oz [[Bacardi]] Rum
 - 0.5 Oz Pineapple Rum
 - 0.5 Oz Lime Juice
 - 0.5 Oz [[Simple Syrup]]

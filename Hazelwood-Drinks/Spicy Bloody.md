@@ -14,7 +14,7 @@ tags:
 
 
 # Instructions
-1. Build in [[Bloody Rimm]] Pint Glass
+1. Build in [[Bloody Rim]] Pint Glass
 2. Add ice
 3. Add Vodka
 4. Top with [[Bloody Mary Mix (Batch)]]

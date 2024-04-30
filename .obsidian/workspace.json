@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "28080db6d14a47c2",
+        "id": "649d9ef2c25407f1",
         "type": "tabs",
         "children": [
           {
-            "id": "a6eca39a83096958",
+            "id": "451621027500cf05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(MOC) Liquor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c73e0c88fda2a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Procedures/User Guide.md",
+                "file": "(MOC) Hazelwood Drinks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Procedures/User Guide.md",
+                "file": "(MOC) Hazelwood Drinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Procedures/User Guide.md",
+                "file": "(MOC) Hazelwood Drinks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Procedures/User Guide.md"
+                "file": "(MOC) Hazelwood Drinks.md"
               }
             }
           }
@@ -159,37 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c73e0c88fda2a08",
+  "active": "451621027500cf05",
   "lastOpenFiles": [
     "(MOC) Liquor.md",
-    "Extras/Procedures/User Guide.md",
+    "Ingredient recipies/Pepper Vodka (Batch).md",
+    "Hazelwood-Drinks/Elderflower Mimosa.md",
+    "Extras/Liquor Inventory/Liquor/St.Germaine.md",
+    "Hazelwood-Drinks/Breakfast Mule.md",
+    "Hazelwood-Drinks/Brunch Punch.md",
+    "Extras/Liquor Inventory/Liquor/Bacardi.md",
+    "Hazelwood-Drinks/By Any Other Name.md",
+    "Ingredient recipies/Lavender Simple Syrup.md",
+    "Extras/Liquor Inventory/Liquor/Wheatly.md",
+    "Hazelwood-Drinks/Chocolate Cherry Kiss Martini.md",
+    "Extras/Liquor Inventory/Liquor/Creme de Cacao.md",
+    "Extras/Liquor Inventory/Liquor/Effen Black Cherry.md",
+    "Hazelwood-Drinks/Golden Leaf Sazerac.md",
+    "Hazelwood-Drinks/Hazelwood Lemonade.md",
+    "Hazelwood-Drinks/Hazelwood Mojito.md",
+    "Hazelwood-Drinks/Honey Nut Cocktail.md",
+    "Hazelwood-Drinks/Indigo 75.md",
+    "Hazelwood-Drinks/New Year New Me.md",
+    "Hazelwood-Drinks/Paloma Mimosa.md",
+    "Hazelwood-Drinks/Pomegranate Mule.md",
+    "Hazelwood-Drinks/Release the Kraken.md",
+    "Hazelwood-Drinks/Seasonal Old Fashioned Peach.md",
+    "Hazelwood-Drinks/PB&C.md",
+    "Extras/Liquor Inventory/Liquor/Khalua.md",
+    "Extras/Liquor Inventory/Liquor/Screwball PB Whiskey.md",
     "Extras/Images/Screenshot 2024-04-30 at 3.37.42 PM.png",
-    "(MOC) General Drinks.md",
-    "(MOC) Hazelwood Drinks.md",
-    "Extras/Liquor Inventory/Liquor/Morpho.md",
-    "Extras/Liquor Inventory/Liquor/Ketle One Peach.md",
-    "Extras/Templates/Template, Liquor.md",
     "Extras/Liquor Inventory/Wine",
-    "Brandy Alexander.md",
-    "To DO.md",
     "Extras/Images/Screenshot 2024-04-30 at 2.48.34 PM.png",
     "Extras/Images/Drink-photos",
-    "Ingredient recipies/Strawberry Basil Simple Syrup.md",
-    "Hazelwood-Drinks/Spicy Rasberita.md",
-    "Hazelwood-Drinks/New Year New Me.md",
-    "Hazelwood-Drinks-NA/Farmer Paul's Maple Harvest.md",
-    "Extras/Liquor Inventory/Liquor/Seedlip Grove 42.md",
-    "Hazelwood-Drinks/Boozy Butter Cup.md",
-    "Extras/Templates/Template, DrinkRecipe.md",
-    "Hazelwood-Drinks-NA/Pom Cooler.md",
-    "Hazelwood-Drinks/Brunch Punch.md",
-    "Hazelwood-Drinks/By Any Other Name.md",
-    "Hazelwood-Drinks/Chocolate Cherry Kiss Martini.md",
-    "Hazelwood-Drinks/Breakfast Mule.md",
-    "Hazelwood-Drinks/Spicy Bloody.md",
-    "Hazelwood-Drinks/Elderflower Mimosa.md",
-    "Ingredient recipies/Agave Simple Syrup.md",
-    "Extras/Liquor List/Untitled.md",
     "Extras/Liquor Inventory",
     "Extras/Guidelines and procedures",
     "Extras/Procedures",

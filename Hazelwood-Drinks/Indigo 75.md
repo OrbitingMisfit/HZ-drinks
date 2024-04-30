@@ -6,7 +6,7 @@ tags:
 ---
 
 # Ingredients
-- 1.5 Oz [[Morph Gin]] #Needs_Update
+- 1.5 Oz [[Morpho]] Gin
 - 0.75 Oz [[Simple Syrup]]
 - 0.75 [[Lemon Juice]]
 - Wycliff
