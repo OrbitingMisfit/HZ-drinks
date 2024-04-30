@@ -1,0 +1,6 @@
+- [ ] Allergy's for drinks
+	- [ ] Gluten
+- [ ] Food pairing 
+- [ ] Add a happy hour tag
+- [ ] Fix the spelling of coupe glass on some of the enty's
+- [ ] User documentation

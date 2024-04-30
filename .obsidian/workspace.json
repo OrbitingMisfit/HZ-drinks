@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "dde3eb6d4a09a1da",
+    "type": "split",
+    "children": [
+      {
+        "id": "28080db6d14a47c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1041c3384a78344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Procedures/User Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fae6a0b7c453eb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ba98634b30f70d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f83cbf6c9fbc1d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03a25a18b1479fe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06fd58e1547f8102",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08d209413ee93e6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5796d55a0083bc94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91c1a32c25d5087c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Extras/Procedures/User Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcc9c975a0be1da7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Extras/Procedures/User Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a034e749f1a8e837",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cad941445a0056c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Extras/Procedures/User Guide.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f83cbf6c9fbc1d9",
+  "lastOpenFiles": [
+    "Untitled",
+    "Extras/Images/Screenshot 2024-04-30 at 2.48.34 PM.png",
+    "Extras/Procedures/User Guide.md",
+    "Extras/Images/Drink-photos",
+    "(MOC) Liquor.md",
+    "To DO.md",
+    "Ingredient recipies/Strawberry Basil Simple Syrup.md",
+    "Hazelwood-Drinks/Spicy Rasberita.md",
+    "Hazelwood-Drinks/New Year New Me.md",
+    "Hazelwood-Drinks-NA/Farmer Paul's Maple Harvest.md",
+    "(MOC) General Drinks.md",
+    "Liquor/Seedlip Grove 42.md",
+    "Hazelwood-Drinks/Boozy Butter Cup.md",
+    "Extras/Templates/Template, DrinkRecipe.md",
+    "Brandy Alexander.md",
+    "Hazelwood-Drinks-NA/Pom Cooler.md",
+    "Hazelwood-Drinks/Brunch Punch.md",
+    "Hazelwood-Drinks/By Any Other Name.md",
+    "Hazelwood-Drinks/Chocolate Cherry Kiss Martini.md",
+    "Hazelwood-Drinks/Breakfast Mule.md",
+    "Hazelwood-Drinks/Spicy Bloody.md",
+    "Liquor/Morpho.md",
+    "Liquor/Ketle One Peach.md",
+    "(MOC) Hazelwood Drinks.md",
+    "Hazelwood-Drinks/Elderflower Mimosa.md",
+    "Ingredient recipies/Agave Simple Syrup.md",
+    "Extras/Liquor List/Untitled.md",
+    "Extras/Liquor Inventory",
+    "Ingredient recipies/Honey Simple Syrup.md",
+    "Extras/Guidelines and procedures",
+    "Extras/Procedures",
+    "Liquor",
+    "General-Drinks",
+    "Hazelwood-Drinks-NA",
+    "Ingredient recipies",
+    "Extras/Images",
+    "Hazelwood-Drinks"
+  ]
+}
