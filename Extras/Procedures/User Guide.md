@@ -8,7 +8,7 @@ tags:
 ## Set up on Iphone
 
 ## Create a new recipe entry
--  Create a new note
+-  Create a new note (==Cmd + n== or ==Ctrl + n==)
 -  In the new note press ==Cmd + p== or ==Ctrl + p== to open the command pallet
 -  Search for the Templates command
 	![[Screenshot 2024-04-30 at 2.48.34 PM.png]]
