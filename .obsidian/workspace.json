@@ -11,11 +11,28 @@
             "id": "4147a6a31979021a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "To DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b914af949d24e1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rosemary's baby.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rosemary's baby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rosemary's baby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rosemary's baby.md"
+              }
             }
           }
         ]
@@ -138,9 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4147a6a31979021a",
+  "active": "0f83cbf6c9fbc1d9",
   "lastOpenFiles": [
+    "Untitled",
     "(MOC) Hazelwood Drinks.md",
+    "Rosemary's baby.md",
+    "To DO.md",
     "Extras/Liquor Inventory/Liquor/Wheatly.md",
     "Hazelwood-Drinks/By Any Other Name.md",
     "Hazelwood-Drinks/Breakfast Mule.md",
@@ -148,7 +172,6 @@
     "Untitled.canvas",
     "Extras/Liquor Inventory/Liquor/BuffaloTrace.md",
     "Extras/Liquor Inventory/Liquor/Four Roses.md",
-    "To DO.md",
     "(MOC) General Drinks.md",
     "Hazelwood-Drinks/Boozy Butter Cup.md",
     "Extras/Liquor Inventory/Liquor/Creme de Cacao.md",
@@ -165,8 +188,6 @@
     "Hazelwood-Drinks/Elderflower Mimosa.md",
     "Extras/Liquor Inventory/Liquor/St.Germaine.md",
     "Hazelwood-Drinks/Brunch Punch.md",
-    "Extras/Liquor Inventory/Liquor/Bacardi.md",
-    "Ingredient recipies/Lavender Simple Syrup.md",
     "Extras/Images/Screenshot 2024-04-30 at 3.37.42 PM.png",
     "Extras/Liquor Inventory/Wine",
     "Extras/Images/Screenshot 2024-04-30 at 2.48.34 PM.png",
