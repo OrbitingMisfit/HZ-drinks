@@ -6,11 +6,11 @@ tags:
 ---
 
 # Ingredients
-- Hendriks
-- wiggly bottle
-- lemon luice
-- grapefruit juice
-- rosemary simple
+- 1.5 Oz Hendriks
+- 1.0 Oz Domaine Canton
+- 0.5 Oz Lemon juice
+- 0.5 Oz Grapefruit juice
+- 0.5 Oz Rosemary simple
 
 
 

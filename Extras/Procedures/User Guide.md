@@ -26,8 +26,8 @@ tags:
 - Type in the name of the folder you want to move the current note into
 
 ## Download a copy of the database
-The full version of the database is available on (Github at this link #review )
-
+The full version of the database is available on [Database](https://github.com/OrbitingMisfit/HZ-drinks)
+	Updated versions of the Database will be available on Github
 
 # tag list
 #inprogress = This entry is still being worked on

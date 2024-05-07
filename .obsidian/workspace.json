@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rosemary's baby.md",
+                "file": "Extras/Procedures/User Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8353d78db5da918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hazelwood-Drinks/By Any Other Name.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rosemary's baby.md",
+                "file": "Extras/Procedures/User Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rosemary's baby.md",
+                "file": "Extras/Procedures/User Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rosemary's baby.md"
+                "file": "Extras/Procedures/User Guide.md"
               }
             }
           }
@@ -159,14 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f83cbf6c9fbc1d9",
+  "active": "b914af949d24e1bb",
   "lastOpenFiles": [
-    "Untitled",
-    "(MOC) Hazelwood Drinks.md",
     "Rosemary's baby.md",
-    "To DO.md",
-    "Extras/Liquor Inventory/Liquor/Wheatly.md",
     "Hazelwood-Drinks/By Any Other Name.md",
+    "Hazelwood-Drinks/Indigo 75.md",
+    "Hazelwood-Drinks-NA/Citrus Smash.md",
+    "Ingredient recipies/Hazelwood Old Fashioned (Batch).md",
+    "(MOC) Hazelwood Drinks.md",
+    "To DO.md",
+    "Untitled",
+    "Extras/Liquor Inventory/Liquor/Wheatly.md",
     "Hazelwood-Drinks/Breakfast Mule.md",
     "2024-04-30.md",
     "Untitled.canvas",
@@ -186,8 +201,6 @@
     "General-Drinks/Brandy Alexander.md",
     "Ingredient recipies/Pepper Vodka (Batch).md",
     "Hazelwood-Drinks/Elderflower Mimosa.md",
-    "Extras/Liquor Inventory/Liquor/St.Germaine.md",
-    "Hazelwood-Drinks/Brunch Punch.md",
     "Extras/Images/Screenshot 2024-04-30 at 3.37.42 PM.png",
     "Extras/Liquor Inventory/Wine",
     "Extras/Images/Screenshot 2024-04-30 at 2.48.34 PM.png",
@@ -198,7 +211,6 @@
     "Extras/Liquor Inventory/Liquor",
     "General-Drinks",
     "Hazelwood-Drinks-NA",
-    "Ingredient recipies",
-    "Extras/Images"
+    "Ingredient recipies"
   ]
 }
