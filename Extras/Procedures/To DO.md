@@ -12,4 +12,4 @@
 - [ ] [[Irish Coffee]]
 - [ ] [[Gimlet]]
 - [ ] [[Rumchata Salted Caramel White Russian]]
-- [ ] [[Rosemary's baby]]
+- [x] [[Rosemary's baby]]
