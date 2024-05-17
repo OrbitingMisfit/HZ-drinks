@@ -1,13 +1,12 @@
 ---
-Last Updated: 
+Last Updated: 2024-05-17
 tags:
-  - inprogress
   - Martini
 ---
 
 # Ingredients
 - 2.0 Oz [[Trader Vic's]]
-- 0.5 Oz Creme de cacao
+- 0.5 Oz [[Creme de Cacao]]
 - 0.5 Oz [[Bailey's]]
 - 0.5 Oz Vanilla Vodka
 

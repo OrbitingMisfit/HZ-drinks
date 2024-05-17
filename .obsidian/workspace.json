@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11d73fa0b4b3d26d",
+        "id": "8ffb3556038a40d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f66fe415f82fae",
+            "id": "20300aac445b7e1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hazelwood-Drinks/Brunch Punch.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: #inprogress  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hazelwood-Drinks/Brunch Punch.md",
+                "file": "Ingredient recipies/Rosemary Simple Syrup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hazelwood-Drinks/Brunch Punch.md",
+                "file": "Ingredient recipies/Rosemary Simple Syrup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hazelwood-Drinks/Brunch Punch.md"
+                "file": "Ingredient recipies/Rosemary Simple Syrup.md"
               }
             }
           }
@@ -146,36 +142,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9f66fe415f82fae",
+  "active": "0f83cbf6c9fbc1d9",
   "lastOpenFiles": [
-    "Hazelwood-Drinks/Guava Margarita.md",
+    "Extras/Liquor Inventory/Liqueur/Domaine Canton.md",
+    "Extras/Liquor Inventory/Liquor/Hendriks.md",
     "Hazelwood-Drinks/Spicy Margarita (Hazelwood).md",
-    "Hazelwood-Drinks/Brunch Punch.md",
+    "Ingredient recipies/Simple Syrup.md",
+    "Hazelwood-Drinks/Rosemary's baby.md",
+    "Ingredient recipies/Rosemary Simple Syrup.md",
+    "Hazelwood-Drinks/Release the Kraken.md",
+    "Hazelwood-Drinks/New Year New Me.md",
+    "Lemon Drop Martini.md",
+    "Ingredient recipies/Honey Simple Syrup.md",
+    "Hazelwood-Drinks/Guava Margarita.md",
+    "Hazelwood-Drinks/Golden Leaf Sazerac.md",
+    "Hazelwood-Drinks-NA/Farmer Paul's Maple Harvest.md",
+    "General-Drinks/Chocolate Martini.md",
+    "General-Drinks/Brandy Alexander.md",
+    "Hazelwood-Drinks/Boozy Butter Cup.md",
+    "Hazelwood-Drinks/Chocolate Cherry Kiss Martini.md",
+    "(MOC) Liquor.md",
     "(MOC) Hazelwood Drinks.md",
+    "(MOC) General Drinks.md",
+    "Hazelwood-Drinks/Brunch Punch.md",
     "Extras/Liquor Inventory/Liquor/Jose Cuervo.md",
     "Ingredient recipies/Strawberry Habanero Simple Syrup.md",
-    "General-Drinks/Chocolate Martini.md",
-    "(MOC) General Drinks.md",
     "Extras/Liquor Inventory/Liqueur/Bailey's.md",
     "Extras/Liquor Inventory/Liqueur/Baily's.md",
     "Hazelwood-Drinks-NA/Citrus Smash.md",
-    "Extras/Liquor Inventory/Liqueur/Trader Vic's.md",
     "Extras/Liquor Inventory/Liqueur",
-    "Hazelwood-Drinks/Rosemary's baby.md",
-    "Lemon Drop Martini.md",
-    "Extras/Procedures/To DO.md",
-    "Hazelwood-Drinks/New Year New Me.md",
-    "Hazelwood-Drinks/By Any Other Name.md",
-    "Extras/Procedures/User Guide.md",
-    "Hazelwood-Drinks/Indigo 75.md",
-    "Ingredient recipies/Hazelwood Old Fashioned (Batch).md",
-    "Extras/Liquor Inventory/Liquor/Wheatly.md",
-    "Hazelwood-Drinks/Breakfast Mule.md",
-    "2024-04-30.md",
     "Untitled.canvas",
-    "Extras/Liquor Inventory/Liquor/BuffaloTrace.md",
-    "Extras/Liquor Inventory/Liquor/Four Roses.md",
-    "Hazelwood-Drinks/Boozy Butter Cup.md",
     "Extras/Images/Screenshot 2024-04-30 at 3.37.42 PM.png",
     "Extras/Liquor Inventory/Wine",
     "Extras/Images/Screenshot 2024-04-30 at 2.48.34 PM.png",

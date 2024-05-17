@@ -1,7 +1,6 @@
 ---
-Last Updated: 
+Last Updated: 2024-05-17
 tags:
-  - inprogress
   - DoubleRocks
 ---
 

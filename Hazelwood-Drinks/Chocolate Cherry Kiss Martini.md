@@ -1,7 +1,6 @@
 ---
-Last Updated: 
+Last Updated: 2024-05-17
 tags:
-  - inprogress
   - Martini
 ---
 
@@ -13,6 +12,9 @@ tags:
 - Sprinkle Chocolate Powder
 
 # Instructions
-1. 
+1. Build in Shaker
+2. Shake
+3. Strain into glass
+4. Garnish with cherry kiss and chocolate powder
 
 # Image
