@@ -16,6 +16,7 @@
 [[Farmer Paul's Maple Harvest]] 
 # G
 [[Golden Leaf Sazerac]]
+[[Guava Margarita]]
 # H
 [[Hazelwood Old Fashioned (Batch)]] 
 [[Hazelwood Manhattan (Batch)]] 
@@ -48,6 +49,7 @@
 [[Strawberry Lavender Cooler]] 
 [[Spicy Rasberita]]
 [[Spiced Pear Mule]]
+[[Spicy Margarita (Hazelwood)]]
 # T
 [[Tanteo's Mule]]
 # U
