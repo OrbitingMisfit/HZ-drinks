@@ -4,6 +4,7 @@
 [[Bacardi]]
 [[Bulliet Bourbon]]
 [[Bailey's]]
+[[BuffaloTrace]]
 # C
 [[Creme de Cacao]]
 # D
@@ -12,13 +13,16 @@
 [[Effen Black Cherry]]
 
 # F
+[[Four Roses]]
 
 # G
 # H
+[[Hendriks]]
 
 # I
 
 # J
+[[Jose Cuervo]]
 # K
 [[Ketle One Peach]]
 [[Khalua]]
