@@ -16,7 +16,10 @@ tags:
 
 
 # Instructions
-1. 
+1. Build in shaker
+2. Shake
+3. Splash of Grenadine
+4. Garnish with Pineapple or Cherry
 
 
 # Notes
