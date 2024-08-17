@@ -7,7 +7,10 @@ tags:
 ---
 
 # Ingredients
-- 
+- 2 oz Guava syrup
+- .75 oz lime juice
+- .75 oz [[Agave Simple Syrup]]
+- Club soda
 
 
 
