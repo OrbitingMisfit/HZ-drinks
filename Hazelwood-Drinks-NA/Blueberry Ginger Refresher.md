@@ -15,7 +15,10 @@ tags:
 
 
 # Instructions
-1. 
+1. Build in reserve wine glass
+2. add Blueberry syrup to glass
+3. add gingerale and soda water
+4. garnish with lemon wheel and rosemary sprig
 
 
 # Notes
