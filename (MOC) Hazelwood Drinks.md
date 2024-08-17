@@ -54,7 +54,7 @@
 [[Strawberry Lavender Cooler]] 
 [[Spicy Rasberita]]
 [[Spiced Pear Mule]]
-[[Spicy Margarita (Hazelwood)]]
+[[Spicy Strawberry Margarita (Hazelwood)]]
 [[Sour Patch Kids]]
 [[Sour Sunrise]]
 # T

@@ -5,7 +5,7 @@ tags:
 ---
 
 # Ingredients
-- 1.5 Oz [[Jose Cuervo]]
+- 1.5 Oz [[Dobel]]
 - 0.5 Oz Triple Sec
 - 0.75 Oz Lime Juice
 - 2.0 Oz [[Strawberry Habanero Simple Syrup]]
