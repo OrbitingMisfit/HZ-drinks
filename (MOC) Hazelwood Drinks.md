@@ -15,6 +15,7 @@
 [[Elderflower Mimosa]]
 # F
 [[Farmer Paul's Maple Harvest]] 
+[[Fall Spritz]]
 # G
 [[Golden Leaf Sazerac]]
 [[Guava Margarita]]
@@ -33,6 +34,7 @@
 # J
 # K
 # L
+[[Lakeside Spice]]
 # M
 [[Mazzberry Beret]]
 # N
@@ -57,6 +59,8 @@
 [[Spicy Strawberry Margarita (Hazelwood)]]
 [[Sour Patch Kids]]
 [[Sour Sunrise]]
+[[Sweet & Spicy Bonfire]]
+[[Spice & Berry Fizz]]
 # T
 [[Tanteo's Mule]]
 [[Tropical Summer Spritz]]
